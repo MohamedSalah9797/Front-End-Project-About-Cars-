@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	
+	font-size: small;
+   background:#000000;
+	background-size: cover;
+    font-family: 'Coustard', serif;
+	
+
+}
+
+
+
+
+
+.container{
+	padding-left: 200px;
+	padding-top: 100px;
+}
+
+

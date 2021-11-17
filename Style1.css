@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+
+.fixedimg{
+    background-attachment: fixed;
+    background-size: cover;
+    height: 250px;
+}
+
+.fixedimg1{
+    background-image: url(images/3.jpg);
+}
+
+
+
+.fixedimg2{
+    background-image: url(images/4.jpg);
+}
+
+
+.navbar-brand:hover{
+    text-shadow: 5px 5px 5px white;
+        
+    
+                
+}
+
+
+
+
+a:hover{
+    color: white;
+    padding-left: 10px;
+    
+}
+.navbar li:hover{
+    padding-left: 10px;
+}
+
+
+carousel-inner-img{
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    
+    font-size: small;
+    background-color: #343a40 !important;
+    
+	font-family: 'Oswald', sans-serif;
+
+
+
+}
+
+
+
+.dropdown-item{
+    color: #dc3545 !important;
+}
+
+h1{
+    color: #dc3545;
+    font-size: bold;
+}
+
+footer{
+ 
+    background-color: #1f2629;
+    padding-top: 50px;
+    padding-bottom: 1px;
+    margin-top: 50px;
+    margin-bottom: -25px;
+}
+
